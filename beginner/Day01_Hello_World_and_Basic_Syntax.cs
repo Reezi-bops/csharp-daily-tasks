@@ -8,6 +8,7 @@ namespace Day01_Hello_World_and_Basic_Syntax
         {
             Console.WriteLine("Hello, World!");
 
+
             int number = 19;
             string name = "Raiko";
             double price = 9899.99;
